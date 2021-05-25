@@ -1,4 +1,5 @@
 console.log("Bubble sorting");
+
 const arr=[2,1,5,6,8,10,3];
 
 let arrsize=arr.length;
