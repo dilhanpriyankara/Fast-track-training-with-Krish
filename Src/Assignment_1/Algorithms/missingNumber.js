@@ -1,5 +1,4 @@
-let missing = [];
-let numArray = [32,36,30,31,37,38,39,33,40,35];
+let numArray = [30,37,39,33,40,34,38,36,32,31];
 const sortedNumArray = numArray.sort((a, b) => a - b);
 let mapdata=new Map();
 for (let index = 0; index < sortedNumArray.length-1; index++) {  
